@@ -57,7 +57,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "float" ],
 					"patching_rect" : [ 527.0, 389.0, 108.0, 22.0 ],
-					"text" : "makenote 127 300"
+					"text" : "makenote 127 500"
 				}
 
 			}
@@ -259,7 +259,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 248.0, 31.0, 50.0, 22.0 ]
+					"patching_rect" : [ 250.0, 24.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -355,7 +355,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"patching_rect" : [ 189.0, 85.0, 63.0, 22.0 ],
-					"text" : "metro 500"
+					"text" : "metro 250"
 				}
 
 			}
